@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# macOS / Clang debug symbols
+*.dSYM/
+
+# C++ compiled executables
+HelloWorld
+NamedConstants
+
+# Object files
+*.o
+*.obj
+
+# Other common build files
+build/
